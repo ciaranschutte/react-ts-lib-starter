@@ -1,5 +1,4 @@
-- dev mode watches
-- start runs react playground for debugging components
-- types?
+- dev mode watches for file changes
+- outputs types, needs latest node/tsconfig setup in consumer project
 - package.json "files" set what's installed as dependncy, package.json automatically included
-- npm i in consumer project, maybe npm i dist?
+- `npm i <dist>` from consumer project
