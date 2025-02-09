@@ -1,0 +1,5 @@
+- dev mode watches
+- start runs react playground for debugging components
+- types?
+- package.json "files" set what's installed as dependncy, package.json automatically included
+- npm i in consumer project, maybe npm i dist?
